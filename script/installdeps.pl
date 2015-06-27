@@ -69,4 +69,17 @@ installdeps.pl - a wrapper of carton for git/dist URL syntax
   -h, --help       Show this help
       --reinstall  Reinstall modules even if they are already installed
 
+=head1 AUTHOR
+
+Shoichi Kaji E<lt>skaji@cpan.orgE<gt>
+
+=head1 COPYRIGHT
+
+Copyright 2015- Shoichi Kaji
+
+=head1 LICENSE
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
 =cut
