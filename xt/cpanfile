@@ -1,0 +1,3 @@
+requires 'Acme::Shutup', git => 'git://github.com/shoichikaji/Acme-Shutup.git';
+requires 'App::ChangeShebang',
+    dist => 'https://github.com/shoichikaji/change-shebang/archive/0.03.tar.gz';
